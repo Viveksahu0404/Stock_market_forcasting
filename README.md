@@ -1,1 +1,1 @@
-# CodingSathi_task2
+# Stock Market Forcasting using LSTM
